@@ -1,8 +1,10 @@
 # itime
 Library to work with an integer representation of time, so 9:30 becomes 930 and 22:30 becomes 2230.
 
-## WIP
-This library is a work in progress, I'll be adding tests and more methods.
+## Tests
+Tests are written using [ginkgo](http://onsi.github.io/ginkgo/)
+
+    ginkgo
 
 ## Contributing & bugs
 Please fork the repository, make the changes in your fork and include tests. Once you're done making changes, send in a pull request.
